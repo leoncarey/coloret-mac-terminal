@@ -1,6 +1,10 @@
 # coloret-mac-terminal
 Your terminal more cute.
 
+```
+[user_dir@username] complete_path (branch)$
+```
+
 ##### How to install?
 Open your `.bash_profile` and paste the code below:
 
